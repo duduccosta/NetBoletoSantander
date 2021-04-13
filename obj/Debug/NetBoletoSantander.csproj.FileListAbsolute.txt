@@ -1,9 +1,0 @@
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\bin\Debug\NetBoletoSantander.dll
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\bin\Debug\NetBoletoSantander.pdb
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\bin\Debug\System.ValueTuple.dll
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\bin\Debug\System.ValueTuple.xml
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\obj\Debug\NetBoletoSantander.csprojAssemblyReference.cache
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\obj\Debug\NetBoletoSantander.csproj.CoreCompileInputs.cache
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\obj\Debug\NetBoletoSantander.csproj.CopyComplete
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\obj\Debug\NetBoletoSantander.dll
-G:\sistema_quality_curtt\Boletos\NetBoletoSantander\obj\Debug\NetBoletoSantander.pdb
