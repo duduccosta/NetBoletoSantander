@@ -1,6 +1,8 @@
 # NetBoletoSantander
 Lib para registro de boletos online no banco Santander desenvolvido em .NET Framework compatível com a versão 4.7.1+.
+
 Projeto derivado do https://github.com/Tagliatti/NetBoletoSantander.
+
 Versão convertida para .NET Framework.
 
 Autor do projeto original: Filipe Tagliatti ([@Tagliatti](https://github.com/Tagliatti))
