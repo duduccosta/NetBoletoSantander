@@ -5,3 +5,6 @@ obj/
 .vs/*
 bin/*
 obj/*
+/icon.png
+/NetBoletoSantander.nuspec
+/NetBoletoSantanderNetFramework.1.0.0.nupkg
